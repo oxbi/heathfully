@@ -1,0 +1,15 @@
+.venv/
+__pycache__
+*.pyc
+.env
+schedules.json
+.venv/
+__pycache__/
+*.pyc
+.env
+schedules.json
+.venv/
+__pycache__/
+*.pyc
+.env
+schedules.json
